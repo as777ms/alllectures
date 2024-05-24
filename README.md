@@ -208,9 +208,14 @@ console.log(numb);
 ![f](./number)
 AS WE SAID IN THE TOP `Числа Фибоначчи — это последовательность чисел, где каждое число является суммой двух предыдущих чисел` XAR YAK 2 RAQAMI PEWINA BA YAKDIGAR JAM MEWAVAND
 
+## Demo Video
 
 [Watch the demo video](./What_is_the_Fibonacci_Sequence_&_the_Golden_Ratio_Simple_Explanation.mp4)
 
+<video width="320" height="240" controls>
+  <source src="./What_is_the_Fibonacci_Sequence_&_the_Golden_Ratio_Simple_Explanation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 RIGHT NOW YOU LEARNED HOW TO SOLVE TASKS BY THAT WE NEED TO KNOW MORE INFORMATION ABOUT FIBONACCI number <a href="https://youtu.be/r3BjNKfQaR0?si=I9b9qyw9UScnPruM">go to this link and learn</a>
 
